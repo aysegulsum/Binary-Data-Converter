@@ -1,8 +1,3 @@
-//Sena Vatansever 150119755
-//Mehmet Akgun 150119061
-//Mustafa Emir Utku 150119707
-//Ayse Gulsum Eren 150120005
-
 public class BinaryDataConverter {
 
 	public static int binaryToDecimal(String binaryString) {
